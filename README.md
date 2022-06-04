@@ -1,7 +1,7 @@
 # <p align="center"> **CERTIPRO**
 
 <p align="center">
- ![Stocks Phot](https://hightechpros.com/wp-content/uploads/2014/04/top-750x375.png)
+![Stocks Phot](https://hightechpros.com/wp-content/uploads/2014/04/top-750x375.png)
 </p>
 
 
