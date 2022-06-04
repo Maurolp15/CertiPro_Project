@@ -14,8 +14,28 @@
  ### INSTITUTIONS:
  
 - The institutions will create non-fungible token certificates for the graduated student in the programs using their stremlite app. 
+</br>
+ 
+ ![Certificate Information](University/images/information.png)
+ </br>
+ 
+ 
+ ![Awarded Certificate](University/images/certificate_tx.png)
+ </br>
+ </br>
+
  
  - Once graduated, the NFT is created, awarded, and the physical diploma is immediately printed out, including the date and time when the token was created, the block hash and the QR code with the ipfs address. 
+ </br>
+ 
+ ![Display Certificate](University/images/display.png)
+ </br>
+ </br>
+ 
+ ![QR Code](University/QR_codes/sw_qrcode.png)
+ </br>
+ </br>
+ 
  
  - Lastly, the NFT Certificate token is sent to the student’s wallet address.
 
@@ -28,6 +48,11 @@
 - the student will import the token using the contract address and keep it on his Metamask wallet address.
  
 - The student as a professional will create a profile on CertiPro with their personal information including a profile photo, add an Ethereum wallet, their resume and certifications to be displayed, as well as the address where the certificates are stored and view the certificates on the app.
+</br>
+ 
+ ![Certificate](University/images/certificate.png)
+ </br>
+ </br>
  
  
 ### CERTIPRO: 
