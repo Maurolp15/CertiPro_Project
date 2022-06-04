@@ -1,7 +1,6 @@
 # <p align="center"> **CERTIPRO**
 
-<p align="center">
- // ![Stocks Phot](https://hightechpros.com/wp-content/uploads/2014/04/top-750x375.png)
+<p align="center">![Stocks Phot](https://hightechpros.com/wp-content/uploads/2014/04/top-750x375.png)
 
 
 ### The objective of this project is to create an application called CertiPro where professionals can upload their resume as well as any tokens and NFTs that represent certifications, awards and degrees given by schools and universities. Clients would also be able to find professionals from a list of candidates and hire them. 
