@@ -1,4 +1,5 @@
-# <p align="center"> **CERTIPRO**
+# <p align="center"> **CERTIPRO:**
+# <p align="center"> Certified professionals to meet your technology needs
 
 
 ![Stocks Phot](https://professional.ucsb.edu/sites/default/files/images/2021-10/Blockchain-as-the-New-Corporation-as-a-Decentralized-Autonomous-Organization.jpeg)
@@ -10,10 +11,8 @@
 
 ### The student as a professional will create a profile on CertiPro with their personal information including a profile photo, add an Ethereum wallet, their resume and certifications to be displayed, as well as the address where the certificates are stored and view the certificates on the app.
 
-
-
  
-## We are using Remix to create and deploy contracts, create NFT's and tokens, pinata to be able to hold images in IPF's and streamlite for the front-end applications
+### We are using Remix to create and deploy contracts, create NFT's and tokens, pinata to be able to hold images in IPF's and streamlite for the front-end applications
 
 
 ## How to Use the Project:
