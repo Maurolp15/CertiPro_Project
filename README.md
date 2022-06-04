@@ -37,4 +37,3 @@ You will need a Meta Mask account to be able to receive your token
   
 ## Other Resources and contributors include:  
 [UM fintech](https://bootcamp.miami.edu/fintech/)
-![image](https://user-images.githubusercontent.com/95111131/172013777-861e5d26-71c4-4f18-bf55-11ce8b729215.png)
